@@ -1,1 +1,2 @@
 # Print "Hello World" and exit
+echo "Hello World"
